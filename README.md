@@ -9,6 +9,7 @@ This project uses the spotify API to acquire data & Keras for machine learning.
 Examples of the algorithm are on my youtube. Use cases can vary from similar artists, to very different (change the vibe up gradually).
 
 Some of my favourites are:
+
 https://www.youtube.com/playlist?list=PLCZMI2ncNA8FC6xQT0t9rX_L9w8GO1D0t
 
 https://www.youtube.com/watch?v=ik28vsEObMM&list=PLCZMI2ncNA8G7smUvZdEAOmKnNRy0LmEa
@@ -23,4 +24,4 @@ https://www.youtube.com/channel/UCQZHKYTRy9htRoOzDKi4HbA/playlists?shelf_id=0&so
 </div>
 
 ### Status
-Project is currently on hold until I can give more time to it.
+Project is currently on hold until I can dedicate more time to it.
